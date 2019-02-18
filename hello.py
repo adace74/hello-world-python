@@ -70,7 +70,7 @@ Hello Wortld Script
     help_string = ''
 
     # Getopt variables.
-    short_options = 'hp:v?'
+    short_options = 'hv?'
     long_options = ['help',
                     'version',
                     '?']
